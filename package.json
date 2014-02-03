@@ -1,7 +1,7 @@
 {
   "name": "haversort",
   "description": "Sort a list of coordinates by distance from a given point",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "repository": {
     "url": "git://github.com/toddself/haversort.git"
   },
